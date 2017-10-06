@@ -1,0 +1,287 @@
+@media (min-width: 910px) and (max-width: 1175px) {
+
+a{
+	font-size: 22px;
+}
+.menu-buttons {
+	margin: 25px 20%;
+}
+
+.logo {
+	margin-top: -115px;
+}
+.logoimg {
+	width: 130px;
+}  
+.logoimg:hover {
+	width: 140px;
+} 
+.wrap {
+	margin-left: 10%;
+}  
+.loremIpsum {
+    min-width: auto;
+    min-height: 220px;
+}
+.b {
+	margin: 20px -20px;
+	min-width: auto;
+}
+.content1 {
+	height: 750px; /*Image Audi*/
+	border: 1px solid transparent;
+	background: #B6B6B8; 
+	background-repeat: no-repeat;
+	background-image: url("VA_594cc3cc09454a979b34972fcf693931.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0px -60px 0px 0px;
+}
+}
+
+@media (min-width: 660px) and (max-width: 909px) {
+
+a{
+	font-size: 22px;
+}
+.a {
+	font-weight: 100;
+	padding: 5px 10px;
+	margin: 5px 5px; 
+}
+.a:hover {
+    padding: 6px 11px;
+}
+.logo {
+	margin-top: -115px;
+
+}
+.logoimg {
+	width: 110px;
+}  
+.logoimg:hover {
+	width: 120px;
+} 
+
+.menu-buttons {
+	margin: 25px 15%;
+}
+.wrap {
+
+	margin-left: 5%;
+}  
+
+.loremIpsum {
+    min-width: auto;
+	height: auto;
+	padding-top: 50px;
+}
+	
+.b {
+
+	margin: 5px -35px; 
+}
+
+.content1 {
+	height: 750px; /*Image Audi*/
+	border: 1px solid transparent;
+	background: #B6B6B8; 
+	background-repeat: no-repeat;
+	background-image: url("VA_594cc3cc09454a979b34972fcf693931.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0px -60px 0px 0px;
+} 
+
+}
+
+
+@media (min-width: 586px) and (max-width: 659px) {
+
+a{
+	font-size: 20px;
+}
+.a {
+	font-weight: 100;
+	padding: 2px 6px;
+	margin: 10px 5px; 
+}
+.a:hover {
+    padding: 3px 7px;
+}
+.logo {
+	margin-top: -115px;
+
+}
+.logoimg {
+	width: 110px;
+	margin-right: 2px;
+}  
+.logoimg:hover {
+	width: 120px;
+} 
+
+.menu-buttons {
+	margin: 25px 15%;
+}
+.wrap {
+
+	margin-left: 15%;
+}  
+.loremIpsum {
+    min-width: auto;
+	height: 260px;
+	padding-top: 20px;
+}
+	
+.b {
+	font-weight: 100;
+	padding: 2px 6px;
+	margin: 5px -30px; 
+}
+.b:hover {
+    padding: 3px 7px;
+}
+.content1 {
+	height: 750px; /*Image Audi*/
+	border: 1px solid transparent;
+	background: #B6B6B8; 
+	background-repeat: no-repeat;
+	background-image: url("VA_594cc3cc09454a979b34972fcf693931.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0px -60px 0px 0px;
+} 
+
+}
+
+
+@media (max-width: 585px) {
+
+.header {
+	height: 70px;
+	background: linear-gradient(to top, #F4F4F4, #B6B6B8);
+	padding-bottom: 20px;
+}
+.menu-text {
+	display: none;
+} 
+.a {
+	display: none;
+}
+
+.logo {
+	margin-top: -180px;
+}
+.logoimg {
+	width: 140px;
+}  
+.logoimg:hover {
+	width: 150px;
+} 
+.content1 {
+	height: 700px; /*Image Audi*/
+	border: 1px solid transparent;
+	background: #B6B6B8; 
+	background-repeat: no-repeat;
+	background-image: url("VA_594cc3cc09454a979b34972fcf693931.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0px -60px 0px 0px;
+}
+.title-text {
+	margin-top: 50px;
+	margin-left: 170px;
+	min-width: 130px;
+} 
+.title-text:hover {
+	margin-left: 15px;
+	max-width: 90%;
+}
+.wrap {
+	margin-left: 25%;
+}
+.loremIpsum {
+    width: 25%;
+    min-width: 180px;
+	height: 200px;
+	font-size: 15px;
+	padding-top: 50px;
+	padding-right: 20px;
+	padding-bottom: 20px; 
+	padding-left: 20px;
+}
+.b {
+	margin: 20px -15px;
+}
+ .content2	{
+	height: 1000px; /*Image Audi*/
+}
+.textfooter {
+	color: #454746;
+	margin-top:  -135px;
+	margin-left: 22%;
+	font-size: 24px;
+	text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.31);
+}
+.round {
+	margin-left: 22%;
+	margin-top: 795px;	 
+}
+
+.menu {
+	display: block;
+	margin-bottom: -20px;
+}
+
+ul.submenu {
+	display: block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ul:after {
+    display: block;
+    content: ' ';
+    clear: both;
+    float: none;
+}
+ul.menu > li {
+    float: left;
+    position: relative;
+}
+ul.submenu {
+    display: none;
+    position: absolute;
+    width: 120px;
+    top: 37px;
+    left: 0;
+}
+ul.submenu > li {
+    display: block;
+    color: red;
+	background: -webkit-linear-gradient(to bottom, #F4F4F4, #B6B6B8);
+	background: -moz-linear-gradient(to bottom, #F4F4F4, #B6B6B8);
+	background: linear-gradient(to bottom, #F4F4F4, #B6B6B8);
+	font-weight: 700;
+	text-decoration: none;
+	border: 1px solid #909092;
+	border-radius: 0px;
+	padding: 10px 18px;
+	margin: 0 5px; 
+	float:left;
+	-webkit-box-shadow: 0px -6px 15px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    0px -6px 15px rgba(50, 50, 50, 0.75);
+    box-shadow:         0px -6px 15px rgba(50, 50, 50, 0.75);
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+}
+ul.submenu > li > a:hover {
+    text-decoration: none;
+    padding: 2px 2px;
+}
+ul.menu > li:hover > ul.submenu {
+    display: block;
+}
+
+}
